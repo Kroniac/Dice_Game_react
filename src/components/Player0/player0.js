@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './player0.css'
 const player0 = () => (
   <div class="player-0-panel active">
     <div class="player-name" id="name-0">
